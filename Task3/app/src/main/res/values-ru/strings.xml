@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="name_hint">Введите имя</string>
+    <string name="photo_button_hint">Сделать снимок</string>
+</resources>
